@@ -1,3 +1,3 @@
 # mi_card
 
-![ss_mi_card](https://github.com/user-attachments/assets/6c9d5185-2802-4ee8-9b8d-8283b49d5cc6)
+<img src="https://github.com/user-attachments/assets/6c9d5185-2802-4ee8-9b8d-8283b49d5cc6" width="300">
