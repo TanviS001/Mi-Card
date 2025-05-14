@@ -32,7 +32,7 @@ class MyApp extends StatelessWidget {
                 SizedBox(
                   height: 20.0,
                 ),
-                Text('Tanvi Suryawanshi',
+                Text('Tan',
                     style: TextStyle(
                         fontSize: 30.0,
                         fontFamily: 'Pacifico',
@@ -83,7 +83,7 @@ class MyApp extends StatelessWidget {
                       SizedBox(
                           width: 20.0
                       ),
-                      Text('tanvisuryawanshi09@gmail.com', style: TextStyle(
+                      Text('tan@gmail.com', style: TextStyle(
                         fontFamily: 'SourceCodePro',
                         fontWeight: FontWeight.bold,
                       ),),
